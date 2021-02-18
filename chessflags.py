@@ -1,6 +1,6 @@
 import requests as rq
 import PySimpleGUI as sg
-import flag
+#import flag
 import sys
 from collections import defaultdict
 
