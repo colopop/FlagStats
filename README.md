@@ -4,6 +4,7 @@ Utility that lets you see how well a you play against different countries on Che
 # Requirements
 Python 3, which can be found [here](https://www.python.org/downloads/).
 Once you have Python installed, run `pip install PySimpleGUI` and `pip install requests` from the terminal.
+Then copy down this repository.
 
 # Running the Program
 Go to the folder with chessflags.py in it and open a terminal window there. Type `python chessflags.py`.
